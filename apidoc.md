@@ -42,66 +42,82 @@
 > products wrt category + cost
 
 - http://localhost:9120/filter/2?lcost=7000&hcost=10000
+- https://flipkartapi-9q66.onrender.com/filter/2?lcost=7000&hcost=10000
 
 > products wrt category + brand
 
 - http://localhost:9120/filter/3?brand=Aurelia
+- https://flipkartapi-9q66.onrender.com/filter/3?brand=Aurelia
 
 > products wrt category + type
 
--http://localhost:9120/filter/1?type=Ketchup
+- http://localhost:9120/filter/1?type=Ketchup
+- https://flipkartapi-9q66.onrender.com/filter/1?type=Ketchup
 
 > products wrt category + color
 
 - http://localhost:9120/filter/3?color=Brown
+- https://flipkartapi-9q66.onrender.com/filter/3?color=Brown
 
 > products wrt category + fabric
 
 - http://localhost:9120/filter/3?fabric=Cotton%20Blend
+- https://flipkartapi-9q66.onrender.com/filter/3?fabric=Cotton%20Blend
 
 > products wrt category + pattern
 
 - http://localhost:9120/filter/3?pattern=Printed
+- https://flipkartapi-9q66.onrender.com/filter/3?pattern=Printed
 
 > products wrt category + occasion
 
 - http://localhost:9120/filter/3?occasion=Party%20and%20Festive
+- https://flipkartapi-9q66.onrender.com/filter/3?occasion=Party%20and%20Festive
 
 > products wrt category + necktype
 
 - http://localhost:9120/filter/3?necktype=Mandarin%20Collar
+- https://flipkartapi-9q66.onrender.com/filter/3?necktype=Mandarin%20Collar
 
 > products wrt category + lengthtype
 
 - http://localhost:9120/filter/3?lengthtype=Knee%20Length
+- https://flipkartapi-9q66.onrender.com/filter/3?lengthtype=Knee%20Length
 
 > products wrt category + closure
 
 - http://localhost:9120/filter/3?closure=Lace-Ups
+- https://flipkartapi-9q66.onrender.com/filter/3?closure=Lace-Ups
 
 > products wrt category + idealfor
 
 - http://localhost:9120/filter/3?idealfor=Men
+- https://flipkartapi-9q66.onrender.com/filter/3?idealfor=Men
 
 > products wrt category + connectivity
 
 - http://localhost:9120/filter/4?connectivity=Bluetooth
+- https://flipkartapi-9q66.onrender.com/filter/4?connectivity=Bluetooth
 
 > products wrt category + size
 
 - http://localhost:9120/filter/3?size=XL
+- https://flipkartapi-9q66.onrender.com/filter/3?size=XL
 
 > products wrt category + material
 
 - http://localhost:9120/filter/3?material=PU
+- https://flipkartapi-9q66.onrender.com/filter/3?material=PU
 
 > products wrt category + author
 
 - http://localhost:9120/filter/6?author=R.D%20Sharma
+- https://flipkartapi-9q66.onrender.com/filter/6?author=R.D%20Sharma
 
 > products wrt category + publisher
 
 - http://localhost:9120/filter/6?publisher=Target%20Publications
+- https://flipkartapi-9q66.onrender.com/filter/6?publisher=Target%20Publications
 
 //page 3
 
@@ -135,7 +151,7 @@
 - http://localhost:9120/updateOrder
 - https://flipkartapi-9q66.onrender.com/updateOrder
   {
-  "_id":"64942730724252f19e048472",
+  "\_id":"64942730724252f19e048472",
   "status":"Out for delivery"
   }
 
@@ -143,4 +159,4 @@
 
 - http://localhost:9120/deleteOrder
 - https://flipkartapi-9q66.onrender.com/deleteOrder
-  {"_id":"64942730724252f19e048472"}
+  {"\_id":"64942730724252f19e048472"}
