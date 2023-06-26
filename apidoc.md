@@ -34,6 +34,11 @@
 
 //Page2
 
+> For all products
+> http://localhost:9120/products/3?prodCatId=2&prodTypeId=2
+> http://localhost:9120/products/3?prodCatId=2
+> http://localhost:9120/products/3
+
 > products wrt category
 
 - http://localhost:9120/filter/2
