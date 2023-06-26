@@ -37,8 +37,16 @@
 > For all products
 
 - http://localhost:9120/products/3?prodCatId=2&prodTypeId=2
+- https://flipkartapi-9q66.onrender.com/products/3?prodCatId=2&prodTypeId=2
+
 - http://localhost:9120/products/3?prodCatId=2
+- https://flipkartapi-9q66.onrender.com/products/3?prodCatId=2
+
+- http://localhost:9120/products/3?prodTypeId=2
+- https://flipkartapi-9q66.onrender.com/products/3?prodTypeId=2
+
 - http://localhost:9120/products/3
+- https://flipkartapi-9q66.onrender.com/products/3
 
 > products wrt category
 
