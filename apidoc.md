@@ -2,6 +2,14 @@
 
 //Page 1
 
+> List of Product Types
+
+- http://localhost:9120/productTypes/3?prodCatId=3
+- https://flipkartapi-9q66.onrender.com/productTypes/3?prodCatId=3
+
+- http://localhost:9120/productTypes/3
+- https://flipkartapi-9q66.onrender.com/productTypes/3
+
 > List of fashion types
 
 - http://localhost:9120/fashion
