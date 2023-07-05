@@ -10,31 +10,6 @@
 - http://localhost:9120/productTypes/3
 - https://flipkartapi-9q66.onrender.com/productTypes/3
 
-> List of fashion types
-
-- http://localhost:9120/fashion
-- https://flipkartapi-9q66.onrender.com/fashion
-
-> List of Electronics types
-
-- http://localhost:9120/electronics
-- https://flipkartapi-9q66.onrender.com/electronics
-
-> List of Home Products types
-
-- http://localhost:9120/home
-- https://flipkartapi-9q66.onrender.com/home
-
-> List of Beauty-toys types
-
-- http://localhost:9120/beauty
-- https://flipkartapi-9q66.onrender.com/beauty
-
-> List of vehicles types
-
-- http://localhost:9120/vehicles
-- https://flipkartapi-9q66.onrender.com/vehicles
-
 > List of quick search
 
 - http://localhost:9120/quicksearch
@@ -140,6 +115,17 @@
 
 - http://localhost:9120/filter/6?publisher=Target%20Publications
 - https://flipkartapi-9q66.onrender.com/filter/6?publisher=Target%20Publications
+
+> For all filter list
+
+- http://localhost:9120/listFilter/5?prodCatId=2&prodTypeId=3
+- https://flipkartapi-9q66.onrender.com/listFilter/5?prodCatId=2&prodTypeId=3
+
+- http://localhost:9120/listFilter/5?prodCatId=2
+- https://flipkartapi-9q66.onrender.com/listFilter/5?prodCatId=2
+
+- http://localhost:9120/listFilter/5
+- https://flipkartapi-9q66.onrender.com/listFilter/5
 
 //page 3
 
